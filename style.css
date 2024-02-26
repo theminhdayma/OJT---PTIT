@@ -9,3 +9,24 @@ h1 {
     display: flex;
     justify-content: center;
 }
+.header {
+    height: 50px;
+    display: flex;
+    font-size: 30px;
+}
+
+.logo {
+    width: 20%;
+    background-color: #ff0606;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu {
+    width: 80%;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
